@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 192 192">
+  <style type="text/css">
+    path {
+      fill: none;
+      stroke: #C9D1D9;
+      stroke-width: 40;
+      stroke-linecap: square
+    }
+  </style>
+  <path d="M128,64v32c0,17.7-14.3,32-32,32h0c-17.7,0-32-14.3-32-32V64"/>
+</svg>
